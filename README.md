@@ -64,11 +64,13 @@ Anatomy of an HTML element:</br>
 ![<p> tag](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/p_tag_class.png)</br>
 ![image](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/image_element.png)</br>
 ![<a> tag](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/a_tag.png)</br>
+
+- Another tag you will see *VERY* often is a ```<div class="our_class_name" ></div>``` tag. Div tags are our blank canvas or otherwise undefined element that we can use to organize our content in a neutral way or a way that doesn't have any underlying rules applied to it.
+
+![<div> tag](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/Screen%20Shot%202019-06-05%20at%201.49.38%20PM.png)</br>
   
-- Boiler plate (<head><body> adding content)
-- Other types of elements you might see
-- Lists (<ul><ol>)
-- Observe again with new perspective
+Boiler plate (<head><body> adding content)
+<!-- Observe again with new perspective -->
 
 Let's get coding!
 
