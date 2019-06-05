@@ -67,11 +67,11 @@ In order to present organized documents that can be shared and understood univer
 
 An HTML Boiler plate is generally comprised of two sections:</br>
 
-1)A **Head**</br>
+1) A **Head**</br>
 
 ```<head></head>```</br>
 
-2)And a **Body**</br>
+2) And a **Body**</br>
 
 ```<body></body>```</br>
 
