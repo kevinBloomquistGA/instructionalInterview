@@ -20,5 +20,7 @@
 ## Let's get started...
 
 ### Tools:
+
+If you haven't already
 - Download Chrome
 - Download Sublime
