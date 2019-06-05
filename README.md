@@ -59,8 +59,8 @@ Let's look at our bones - What is HTML?
 - Elements 
 Anatomy of an HTML element:</br>
 ![anatomy](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/html_element.png)
-- some other types of elements:
-![<p> tag]()</br>
+- some other types of elements:</br>
+![<p> tag](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/p_element.png)</br>
 ![<img> tag](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/image%20element.png)</br>
 ![<a> tag]()
   
