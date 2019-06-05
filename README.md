@@ -66,6 +66,7 @@ Let's look at our bones - What is HTML?
 In order to present organized documents that can be shared and understood universally the community has devised a basic structure for a standard HTML page. We call this structure a **HTML Boiler Plate**.
 
 An HTML Boiler plate is generally comprised of two sections:</br>
+
 1)A **Head**</br>
 
 ```<head></head>```</br>
@@ -84,13 +85,15 @@ Our Boiler plate looks like this:
 
 Anatomy of an HTML element:</br>
 ![anatomy](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/html_element.png)</br>
-- some other types of elements:</br>
+
+some other types of elements:</br>
 
 ![<p> tag](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/p_tag_class.png)</br>
 ![image](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/image_element.png)</br>
 ![<a> tag](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/a_tag.png)</br>
 
-- Another tag you will see **VERY** often is a ```<div class="our_class_name" ></div>``` tag. Div tags are our blank canvas or otherwise undefined element that we can use to organize our content in a neutral way or a way that doesn't have any underlying rules applied to it.
+
+Another tag you will see **VERY** often is a ```<div class="our_class_name" ></div>``` tag. Div tags are our blank canvas or otherwise undefined element that we can use to organize our content in a neutral way or a way that doesn't have any underlying rules applied to it.
 
 ![<div> tag](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/Screen%20Shot%202019-06-05%20at%201.49.38%20PM.png)</br>
   
