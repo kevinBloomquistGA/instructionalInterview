@@ -22,8 +22,8 @@
 ### Tools:
 
 If you haven't already
-- [Download Chrome]()
-- [Download Sublime]()
+- [Download Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=CjwKCAjw0N3nBRBvEiwAHMwvNvW0f2iPctKU-wLVSLZo2oVRC_0GAhYZkJL0ePH2f3XS-TPq7h6hkRoC4MgQAvD_BwE&gclsrc=aw.ds)
+- [Download Sublime (iOS)](https://download.sublimetext.com/Sublime%20Text%20Build%203207.dmg)
 - Download starter files
 
 
