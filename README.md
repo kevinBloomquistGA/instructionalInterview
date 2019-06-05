@@ -1,7 +1,7 @@
 # Instructional Interview
 ![ga](ga_cog.png) <br>
 
-## Let's Build a Web Page!
+# Let's Build a Web Page!
 
 ## The Big Picture
 
@@ -10,7 +10,7 @@
 - Demystifying the Command line
 - GitHub!
 
-## Today's Overview
+# Today's Overview
 
 ## Our goals for today are to:
 - Get an idea of what's going on when we visit a web page
