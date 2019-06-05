@@ -30,5 +30,21 @@ If you haven't already
 
 
 ## What's going on when we visit a web page?
+- A web page is just a collection of files that work together in a cooperative manner that are intended to be read by a specific type of application called a browser.
+
+- The types of files that work together are HTML / CSS / Javascript
+- It is useful to think of these cooperative file types as bones, skin, and a neuro-muscular system.
+
+- A browser (ie. Chrome, Firefox, Internet Explorer) is simply an application designed to read and run these types of files cooperatively.
+- [What does this look like in action?](www.birdymagazine.com)
+- DB/ Server / Client 
+- We will be in the *client* today
+
 ## HTML
+Let's look at our bones - What is HTML?
+- elements (components of some types (<h> <a> <img>)
+- boiler plate (<head><body> adding content)
+- other types of elements you might see
+ -Lists (<ul><ol>)
+
 ## CSS
