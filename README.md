@@ -51,12 +51,26 @@ A browser (ie. Chrome, Firefox, Internet Explorer) is simply an application desi
 [What does this look like in action?](www.birdymagazine.com)
 
 - DB/ Server / Client 
-- We will be in the *client* today and building towards our [simple web page](ga.co/responsive-web-page).
-- Take a second to observe
+
+We will be in the **client** today and building towards our [simple web page](ga.co/responsive-web-page).
+
+<!--Take a second to observe-->
 
 ## HTML
 Let's look at our bones - What is HTML?
-- Elements 
+
+**Boiler plate**
+
+In order to present organized documents that can be shared and understood universally the community has devised a basic structure for a standard HTML page. We call this structure a **HTML Boiler Plate**.
+
+- An HTML Boiler plate is generally comprised of two sections:</br>
+1)A *Head*</br>
+```<head></head>```</br>
+2)And a *Body*</br>
+```<body></body>```</br>
+...in which we place our content
+  
+**What are html elements**
 Anatomy of an HTML element:</br>
 ![anatomy](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/html_element.png)</br>
 - some other types of elements:</br>
@@ -65,11 +79,11 @@ Anatomy of an HTML element:</br>
 ![image](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/image_element.png)</br>
 ![<a> tag](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/a_tag.png)</br>
 
-- Another tag you will see *VERY* often is a ```<div class="our_class_name" ></div>``` tag. Div tags are our blank canvas or otherwise undefined element that we can use to organize our content in a neutral way or a way that doesn't have any underlying rules applied to it.
+- Another tag you will see **VERY** often is a ```<div class="our_class_name" ></div>``` tag. Div tags are our blank canvas or otherwise undefined element that we can use to organize our content in a neutral way or a way that doesn't have any underlying rules applied to it.
 
 ![<div> tag](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/Screen%20Shot%202019-06-05%20at%201.49.38%20PM.png)</br>
   
-Boiler plate (<head><body> adding content)
+
 <!-- Observe again with new perspective -->
 
 Let's get coding!
