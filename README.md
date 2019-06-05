@@ -65,14 +65,23 @@ Let's look at our bones - What is HTML?
 
 In order to present organized documents that can be shared and understood universally the community has devised a basic structure for a standard HTML page. We call this structure a **HTML Boiler Plate**.
 
-- An HTML Boiler plate is generally comprised of two sections:</br>
-1)A *Head*</br>
+An HTML Boiler plate is generally comprised of two sections:</br>
+1)A **Head**</br>
+
 ```<head></head>```</br>
-2)And a *Body*</br>
+
+2)And a **Body**</br>
+
 ```<body></body>```</br>
+
 ...in which we place our content
+
+Our Boiler plate looks like this:
+
+![Boiler_plate](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/Screen%20Shot%202019-06-05%20at%202.10.55%20PM.png)
   
-**What are html elements**
+**What are html elements?**</br>
+
 Anatomy of an HTML element:</br>
 ![anatomy](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/html_element.png)</br>
 - some other types of elements:</br>
