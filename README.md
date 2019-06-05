@@ -71,11 +71,13 @@ An HTML Boiler plate is generally comprised of two sections:</br>
 
 ```<head></head>```</br>
 
+The ```<head>``` is where we place content that is meant to be unseen. It usually contains information or links to other files that the page will need to render correctly.
+
 2) And a **Body**</br>
 
 ```<body></body>```</br>
 
-...in which we place our content
+...in which we place any content that is intended to be seen or rendered.
 
 Our Boiler plate looks like this:
 
