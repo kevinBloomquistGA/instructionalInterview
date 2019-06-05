@@ -58,7 +58,7 @@ A browser (ie. Chrome, Firefox, Internet Explorer) is simply an application desi
 Let's look at our bones - What is HTML?
 - Elements 
 Anatomy of an HTML element:
-[anatomy](- some types (<h> <a> <img>)
+![anatomy](- some types (<h> <a> <img>)
 - Boiler plate (<head><body> adding content)
 - Other types of elements you might see
 - Lists (<ul><ol>)
