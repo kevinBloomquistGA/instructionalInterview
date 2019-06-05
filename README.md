@@ -50,7 +50,9 @@ A browser (ie. Chrome, Firefox, Internet Explorer) is simply an application desi
 
 [What does this look like in action?](www.birdymagazine.com)
 
-- DB/ Server / Client 
+**What just happened?**
+
+![server_client](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/Basic%20Static%20App%20Server.png)
 
 We will be in the **client** today and building towards our [simple web page](ga.co/responsive-web-page).
 
