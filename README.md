@@ -22,5 +22,13 @@
 ### Tools:
 
 If you haven't already
-- Download Chrome
-- Download Sublime
+- [Download Chrome]()
+- [Download Sublime]()
+- Download starter files
+
+
+
+
+## What's going on when we visit a web page?
+## HTML
+## CSS
