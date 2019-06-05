@@ -62,7 +62,7 @@ Anatomy of an HTML element:</br>
 - some other types of elements:</br>
 
 ![<p> tag](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/p_tag_class.png)</br>
-![<img> tag](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/image%20element.png)</br>
+![image](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/image_element.png)</br>
 ![<a> tag](https://github.com/kevinBloomquistGA/instructionalInterview/blob/master/a_tag.png)</br>
   
 - Boiler plate (<head><body> adding content)
